@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @july-sf
 - 👀 I’m interested in ... aprender programação
-- 🌱 I’m currently learning ... ads
+- 🌱 I’m currently learning ... analise e desenvolvimento de sistemas
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... @julie_sfelicidade
 
